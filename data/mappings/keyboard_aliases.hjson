@@ -92,9 +92,6 @@
     "bpiphany/pegasushoof": {
         "target": "bpiphany/pegasushoof/2013"
     },
-    "boardsource/unicorne": {
-        "target": "yanghu/unicorne"
-    },
     "brick": {
         "target": "pauperboards/brick"
     },
